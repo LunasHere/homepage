@@ -10,6 +10,9 @@ body {
   .text-balance {
     text-wrap: balance;
   }
+  .highlight-pink {
+    color: #ff69b4; /* Pink text */
+  }
 }
 
 @layer base {
