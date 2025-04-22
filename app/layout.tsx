@@ -6,7 +6,6 @@ import type { Metadata } from "next"
 export const metadata: Metadata = {
   title: "LunasHere",
   description: "My slice of the internet.",
-    generator: 'v0.dev'
 }
 
 export default function RootLayout({
