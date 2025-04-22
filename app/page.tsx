@@ -1,4 +1,3 @@
-import { Github, Twitter, MessageCircle, Twitch } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import Link from "next/link";
 import { ThemeToggle } from "@/components/theme-toggle";
