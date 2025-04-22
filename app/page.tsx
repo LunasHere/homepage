@@ -14,7 +14,7 @@ export default function HomePage() {
 
       <main className="flex-1 flex flex-col items-center justify-center p-6 highlight-pink">
         <div className="w-full max-w-md mx-auto text-center space-y-8">
-          {/* Profile Image - Using the new avatar from images folder */}
+          {/* Profile Image */}
           <div className="relative mx-auto w-32 h-32 rounded-full overflow-hidden border-4 border-background shadow-lg highlight-pink">
             <img src="/images/avatar.gif" alt="Avatar" className="w-full h-full object-cover" />
           </div>
@@ -123,7 +123,7 @@ export default function HomePage() {
       </main>
 
       <footer className="py-6 text-center text-sm text-muted-foreground highlight-pink">
-        <p>© {new Date().getFullYear()} Luna. All rights reserved.</p>
+        <p>Made with ❤️ by Luna. Thanks to <a href="https://discotools.xyz/badges-editor">discotools.xyz</a> for the badges.</p>
       </footer>
     </div>
   );
