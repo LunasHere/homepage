@@ -10,8 +10,8 @@ body {
   .text-balance {
     text-wrap: balance;
   }
-  .highlight-pink {
-    color: #ff69b4; /* Pink text */
+  .text-pink {
+    color: #ff69b4;
   }
 }
 
