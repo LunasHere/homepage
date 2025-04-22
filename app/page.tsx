@@ -27,7 +27,7 @@ export default function HomePage() {
           {/* Bio */}
           <p className="text-muted-foreground">
             Hello! I am a very casual streamer (when I actually remember) and love to write code. Currently I am working
-            on a multi-purpose Discord.JS bot.
+            on a multi-purpose Discord.JS bot. I also love to play games with my friends and partner.
           </p>
 
           {/* Social Links */}
